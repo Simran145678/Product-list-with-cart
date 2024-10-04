@@ -1,0 +1,85 @@
+[
+    {
+        "id": 1,
+       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Waffles_with_Strawberries.jpg/220px-Waffles_with_Strawberries.jpg",   
+       "name": "Waffle with Berries",
+       "category": "Waffle",
+       "price": 6.50,
+       "quantity":0,
+       "itemAdded": false
+    },
+    {
+        "id": 2,
+        "image": "https://img.freepik.com/premium-photo/vanilla-bean-creme-brulee_1170794-193845.jpg",
+        "name": "Vanilla Bean Crème Brûlée",
+        "category": "Crème Brûlée",
+        "price": 7.00,
+       "quantity":0,
+       "itemAdded": false
+     },
+     {
+        "id": 3,
+        "image":"https://product-list-with-cart9.netlify.app/assets/images/image-macaron-desktop.jpg",
+        "name": "Macaron Mix of Five",
+        "category": "Macaron",
+        "price": 8.00,
+       "quantity":0,
+       "itemAdded": false
+     },
+     {
+        "id": 4,
+        "image": "https://www.cuisinart.com/dw/image/v2/ABAF_PRD/on/demandware.static/-/Sites-us-cuisinart-sfra-Library/default/dw80108668/images/recipe-Images/classic-tiramisu-recipe.jpg?sw=1200&sh=1200&sm=fit",
+        "name": "Classic Tiramisu",
+        "category": "Tiramisu",
+        "price": 5.50,
+       "quantity":0,
+       "itemAdded": false
+     },
+     {
+        "id": 5,
+        "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2015/07/Baklava-5-683x1024.jpeg",
+        "name": "Pistachio Baklava",
+        "category": "Baklava",
+        "price": 4.00,
+       "quantity":0,
+       "itemAdded": false
+     },
+     {
+        "id": 6,
+        "image": "https://img.freepik.com/premium-photo/lemon-pie-slice-black-plate-with-innovating-techniques_921026-16846.jpg",
+        "name": "Lemon Meringue Pie",
+        "category": "Pie",
+        "price": 5.00,
+       "quantity":0,
+       "itemAdded": false
+     },
+     {
+        "id": 7,
+        "image": "https://www.callmepmc.com/wp-content/uploads/2015/01/Red-Velvet-Parfait-Recipe-500x375.png",
+        "name": "Red Velvet Cake",
+        "category": "Cake",
+        "price": 4.50,
+       "quantity":0,
+       "itemAdded": false
+     },
+     {
+        "id": 8,
+        "image": "https://thenovicechefblog.com/wp-content/uploads/2011/09/Salted-Caramel-Brownies-8-560x560.jpeg",
+        "name": "Salted Caramel Brownie",
+        "category": "Brownie",
+        "price": 4.50,
+       "quantity":0,
+       "itemAdded": false
+     },
+     {
+        "id": 9,
+        "image": "https://images.food52.com/HaW01gEFgQH9o2RJecHBh377xjg=/720x480/53459dca-e5be-44bc-8d4c-c1787539ef49--2023-1120_goat-milk_goat-milk-panna-cotta_final-recipe-image-3x2-not-branded-unbranded_3x2_james-ransom_107_1-.jpg",
+        "name": "Vanilla Panna Cotta",
+        "category": "Panna Cotta",
+        "price": 6.50,
+       "quantity":0,
+       "itemAdded": false
+     }
+]
+
+
